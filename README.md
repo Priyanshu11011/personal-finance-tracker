@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib
 
 1. Run the application:
    ```
-   python main.py
+   Personal_finance_tracker.py
    ```
 
 2. Use the menu options to navigate the application:
